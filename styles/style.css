@@ -1,13 +1,53 @@
-span # goober {
-  font-style: Verdana;
-  font-size: 12px;
-  font-color: #0066ff;
+h1,h2,h3 {
+  color: darkgreen;
+  font-family: Helvetica;
   font-weight: bold;
+  }
+body { 
+  background-image: "img.peony1.jpg";
+  background-color: rgb(236, 187, 222);
+  background-position: center;
+  background-repeat: repeat-y;
+  background-attachment: fixed;
 }
-div. pinkies {
-  box-sizing: border-box;
-  align-items: center;
+ .mom {
+font-size: 18pt;
+}
+#goober {
+font-weight: bold;
+font-size: 18pt;
+}
+.coding {
+  font-size: 18pt;
+} 
+.cat {
+  font-size: 18pt;
+  }
+.dog {
+  font-size: 18pt;
+}
+blockquote {
+  font-style: Apple Chancery; 
+  color: #0000ff; 
+  font-size: 18pt;
+  font-weight: bold;
+  text-align: center
+}
+ .pinkies {
+  column: float left;
+  margin: 12px
   border: 3px;
-  border: darkorchid;
-  background-color: cyan;
+  border-color: darkorchid; 
 }
+ .timeloss {
+  font-style: Georgia;
+  font-size: 18pt;
+}
+@media screen and (min-width: 300px) {
+  .column {
+    width: 780px;
+    float: left;
+    border-top: darkblue;
+    padding: 5px;
+    border: 3px;
+  }
