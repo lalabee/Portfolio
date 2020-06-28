@@ -1,5 +1,6 @@
-### This is an ongoing portfolio page for Lauralee Green
+# Portfolio Landing Page for Lauralee Green
 
-* Currently, it is a document to demonstate my basic skills in HTML, Markdown,CSS, and Bootstrap as outlined for my first code review. Epicodus' School,_Intro Into Programming Part-Time Class._
-* It was authored by me, Lauralee Green, onlinelassie@gmail.com
-* It is an Open Source document licenced with the MIT Licence.
+## This page was created by me, Lauralee Green (Git Hub - lalabee3412)
+## Currently, it is a document to demonstate my basic skills in HTML, Markdown, CSS and Bootstrap.
+## It was an assignment for the first code review for students at Epicodus School's ,_Intro Into Programming Part-Time Class,_ May, 2020.
+## It is an Open Source document licenced with the MIT Open Source Licence.
