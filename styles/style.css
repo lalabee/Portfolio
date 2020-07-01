@@ -4,11 +4,7 @@ h1,h2,h3 {
   font-weight: bold;
   }
 body { 
-  background-image: "img.peony1.jpg";
   background-color: rgb(236, 187, 222);
-  background-position: center;
-  background-repeat: repeat-y;
-  background-attachment: fixed;
 }
  .mom {
 font-size: 18pt;
@@ -27,9 +23,9 @@ font-size: 18pt;
   font-size: 18pt;
 }
 blockquote {
-  font-style: Apple Chancery; 
+  font-family: 'Felipa', cursive; 
   color: #0000ff; 
-  font-size: 18pt;
+  font-size: 20pt;
   font-weight: bold;
   text-align: center
 }
