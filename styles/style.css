@@ -38,6 +38,7 @@ blockquote {
  .timeloss {
   font-style: Georgia;
   font-size: 18pt;
+  font-weight: bold;
 }
 @media screen and (min-width: 300px) {
   .column {
